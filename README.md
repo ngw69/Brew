@@ -19,9 +19,6 @@ Introducing our SwiftUI-powered Mathematics Helper app, a versatile tool that si
 - **User-Friendly Interface:**
   - Sleek and intuitive design for easy navigation.
   - Carefully chosen color scheme for enhanced readability.
-- **Customization:**
-  - Adjustable display mode and number format.
-  - Personalization of the app's appearance to suit individual preferences.
 - **Offline Accessibility:**
   - Functionality available without an internet connection.
   - Reliable access to powerful features anytime, anywhere.
