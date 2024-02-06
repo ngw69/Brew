@@ -61,7 +61,7 @@ Introducing our SwiftUI-powered Mathematics Helper app, a versatile tool that si
 
 Made by [NGW](https://github.com/ngw69)
 
-IDE: Swifty by SparkleChan: (https://x.com/sparklechanjb)
+IDE: Swifty by [SparkleChan](https://x.com/sparklechanjb)
 
 ## License
 
