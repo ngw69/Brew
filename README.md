@@ -47,15 +47,15 @@ Introducing our SwiftUI-powered Mathematics Helper app, a versatile tool that si
 
 ## Screenshots
 
-[Home](https://iili.io/J12BYeR.md.png)
+![Home](https://iili.io/J12BYeR.md.png)
 
-[Measurements](https://iili.io/J12Babp.md.png)
+![Measurements](https://iili.io/J12Babp.md.png)
 
-[Calculator](https://iili.io/J12B75v.md.png)
+![Calculator](https://iili.io/J12B75v.md.png)
 
-[Scientific Calculator](https://iili.io/J12B5dJ.md.png)
+![Scientific Calculator](https://iili.io/J12B5dJ.md.png)
 
-[Features](https://iili.io/J12B0XI.md.png)
+![Features](https://iili.io/J12B0XI.md.png)
 
 ## Author & IDE
 
